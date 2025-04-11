@@ -18,7 +18,7 @@ I’m a full-stack developer (heavy on the backend), obsessed with solving real-
 - Node.js • TypeScript • PostgreSQL • Redis • Puppeteer • Docker • EC2 • pm2 • nginx
 
 💼 Freelancing
-Working with international clients (🇸🇬 + 🌏) to ship robust tools — from product availability trackers to admin dashboards and notification systems.
+- Working with international clients (🇸🇬 + 🌏) to ship robust tools — from product availability trackers to admin dashboards and notification systems.
 
 📍 Current Projects
 - 📊 **E-commerce Crawlers** — Scanning product drops in real time and pushing updates
