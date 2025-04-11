@@ -1,4 +1,4 @@
-👋 Hey, I'm Jamie — Full-Stack Firestarter ⚡
+### 👋 Hey, I'm Jamie — Full-Stack Firestarter ⚡
 
 I’m a full-stack developer (heavy on the backend), obsessed with solving real-world problems through fast, clean, and scalable code.
 
@@ -15,7 +15,7 @@ I’m a full-stack developer (heavy on the backend), obsessed with solving real-
 - “Tell me the truth, not the sugarcoated version”
 
 🧰 Stack Highlights
-Node.js • TypeScript • PostgreSQL • Redis • Puppeteer • Docker • EC2 • pm2 • nginx
+- Node.js • TypeScript • PostgreSQL • Redis • Puppeteer • Docker • EC2 • pm2 • nginx
 
 💼 Freelancing
 Working with international clients (🇸🇬 + 🌏) to ship robust tools — from product availability trackers to admin dashboards and notification systems.
